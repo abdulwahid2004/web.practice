@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* paralex */
+
+
+
+
+.more-info-section{
+    background-image: linear-gradient(rgba(22,22,22,-1),rgba(22,22,22,0.9)), url("bg-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 7rem 0;
+    overflow: hidden;
+ }
+ .more-info-section .img-section{
+    position: relative;
+ }
+ .more-info-section .img-section img{
+    width: 70%;
+ }
